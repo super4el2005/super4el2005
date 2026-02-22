@@ -19,7 +19,7 @@
 
 <br/>
 
-<h2 align="center">👋 Hi, I'm Super4el</h2>
+<h2 align="center">👋 Hi, I'm Nikita</h2>
 
 <p align="center">
   Frontend developer focused on <strong>high-performance</strong> and <strong>visually rich</strong> web experiences.<br/>

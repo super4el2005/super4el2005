@@ -19,14 +19,14 @@
 
 <br/>
 
-<h2 align="center">👋 Hi, I'm Nikita <p align="center">
+<h2 align="center">👋 Hi, I'm Nikita
   <a href="https://www.youtube.com/watch?v=ВАШ_ID_ВИДЕО" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png" 
          alt="Watch on YouTube" 
          width="90" 
          style="border-radius: 20%; filter: drop-shadow(0 0 10px #ff000055);">
   </a>
-</p> </h2>
+</h2>
 
 <p align="center">
   Frontend developer focused on <strong>high-performance</strong> and <strong>visually rich</strong> web experiences.<br/>

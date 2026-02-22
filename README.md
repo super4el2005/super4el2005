@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/watch?v=ВАШ_ID_ВИДЕО" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png" 
          alt="Watch on YouTube" 
-         width="90" 
+         width="40" 
          style="border-radius: 20%; filter: drop-shadow(0 0 10px #ff000055);">
   </a>
 </h2>
